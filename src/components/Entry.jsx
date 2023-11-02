@@ -1,6 +1,6 @@
 function Entry(props) {
     return (
-        <dl className="dictionary">
+        
         <div className="term">
           <dt>
             <span className="emoji" role="img" aria-label="Tense Biceps">
@@ -13,7 +13,7 @@ function Entry(props) {
           </dd>
         </div>
     
-      </dl>
+      
     )
 }
 
